@@ -9,9 +9,12 @@ wrapper around `lsof` without dependencies.
 
 ## Installation
 
-`lwt` is not registered to PYPI yet, so you will have to clone the
-repository and run `python setup.py install` from within the directory
-manually.
+The package is on PYPI, so you can install it easily if you have
+pip installed:
+
+```
+pip install lwt
+```
 
 ## Usage
 
